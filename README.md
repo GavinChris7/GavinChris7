@@ -1,4 +1,4 @@
-### Hi there, I'm Gavin Chris - aka [GavZ][Gavz.com] 👋
+### Hi there, I'm Gavin Chris - aka [GavZ][Gavz.in] 👋
 
 ## I'm a Brother, Developer, Employee, Friend and Son!
 - 🔭 I’m currently working on a [VS Code Course][website]!
